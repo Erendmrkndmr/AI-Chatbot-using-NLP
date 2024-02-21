@@ -14,9 +14,4 @@
 1. train_chatbot.ipynb: `Downloading libraries and loading data, Data Preprocessing, Creating Training and Test Data, Model Training `
 2. Gui_Chatbot.py : `Creating chatbot GUI and running the chatbot`
 
-## Screenshots
-![Chatbot GUI](screenshots/gui.png)
 
-## References
-- [Deep Learning Models](https://example.com/deep-learning)
-- [Natural Language Processing](https://example.com/nlp)
